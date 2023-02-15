@@ -1,4 +1,10 @@
-def saludar():
+def hello():
     print("Hola mundo")
 
-saludar()
+
+def bye():
+    print("Adios mundo")
+
+
+hello()
+bye()
