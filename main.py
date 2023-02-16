@@ -1,10 +1,12 @@
-def hello():
+def saludar():
     print("Hola mundo")
 
 
-def bye():
+def despedir():
     print("Adios mundo")
 
 
-hello()
-bye()
+saludar()
+despedir()
+
+# Git y github son gestores de repositorios, trabajando el primero de forma local y el segundo de forma remota. Trabaja en 3 pasos: init -add-> stage(en RAM) -commit-> repositorio(.git)
